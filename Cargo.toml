@@ -1,5 +1,5 @@
 [package]
-name = "ShortArtistNames"
+name = "short_artist_names"
 version = "0.1.0"
 edition = "2021"
 
